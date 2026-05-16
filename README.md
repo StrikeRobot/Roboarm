@@ -193,4 +193,4 @@ npm run dev
 
 ## License
 
-[MIT](LICENSE) © 2024 LeDucDiLac
+[MIT](LICENSE) © 2024 Strike Robot
